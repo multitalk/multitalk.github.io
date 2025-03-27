@@ -21,6 +21,8 @@ author: 邵鑫
 
 navbar-links:
   个人简介: "aboutme"
+  学生培养: "aboutme"
+  科研成果: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
