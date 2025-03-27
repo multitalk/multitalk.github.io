@@ -16,7 +16,7 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 ### 学习工作经历
 <div>
 <span style="display: inline-block; width: 115px;">
-  &nbsp2023—迄今
+  &nbsp;2023—迄今
 </span>
 <span style="display: inline-block; width: 350px">
   浙江大学长三角智慧绿洲创新中心   
@@ -28,7 +28,7 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 
 <div>
 <span style="display: inline-block; width: 115px;">
-  &nbsp2022—2023
+  &nbsp;2022—2023
 </span>
 <span style="display: inline-block; width: 350px">
   浙江大学医学院附属杭州市第一人民医学院
@@ -40,7 +40,7 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 
 <div>
 <span style="display: inline-block; width: 115px;">
-  &nbsp2021—2023
+  &nbsp;2021—2023
 </span>
 <span style="display: inline-block; width: 350px">
   浙江大学医学院附属杭州市第一人民医学院
@@ -52,7 +52,7 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 
 <div>
 <span style="display: inline-block; width: 115px;">
-  &nbsp2015—2021
+  &nbsp;2015—2021
 </span>
 <span style="display: inline-block; width: 350px">
   浙江大学药学院
@@ -64,7 +64,7 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 
 <div>
 <span style="display: inline-block; width: 115px;">
-  &nbsp2011—2015
+  &nbsp;2011—2015
 </span>
 <span style="display: inline-block; width: 400px">
   浙江大学药学院
