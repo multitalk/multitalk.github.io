@@ -49,14 +49,11 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  github: multitalk
+  ORCID: 0000-0002-1928-3878
+  google-scholar: https://scholar.google.com.hk/citations?hl=zh-CN&user=TZI1hJUAAAAJ
+  email: "xin_shao@zju.edu.cn"
+  telephone: +8615267040470
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
