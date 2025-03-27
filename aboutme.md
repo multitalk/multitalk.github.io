@@ -1,16 +1,25 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿洲创新中心
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+长期致力于细胞间通讯网络介导的肝损伤与中药修复机制研究，以第一或通讯作者在Nat Commun、Cell Rep Med、Nucleic Acids Res等发表SCI论文10余篇，被Nature、Cell等他引1000余次，主持国家自然科学基金面上项目、青年基金项目，申请发明专利和软著10余项（美国专利1项），作为主要完成人获浙江省科学技术进步一等奖、教育部高等学校科研优秀成果二等奖，受邀担任Nucleic Acids Res、Sci China Life Sci、Commun Biol、Applied Soft Computing等多个SCI期刊审稿人以及世界中医药学会联合会网络药理学专业委员会理事和中国药理学会网络药理学会青委会委员。
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### 学习工作经历
 
-What else do you need?
+- 2023-迄今 | 浙江大学长三角智慧绿洲创新中心 | “百人计划”研究员
+- 2022-2023 | 浙江大学医学院附属杭州市第一人民医院 | 助理研究员
+- 2021-2023 | 浙江大学医学院附属杭州市第一人民医院 | 博士后（导师：[徐骁教授]() / [范骁辉教授]()）
+- 2015-2021 | 浙江大学药学院 | 医学博士（导师：[范骁辉教授]()）
+- 2011-2015 | 浙江大学药学院 | 理学学士
 
-### My story
+### 主要研究方向
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- 基于单细胞时空组学的细胞间通讯网络推断方法研究
+- 酒精性、脂肪性、缺血再灌注肝损伤与修复机制研究
+- 中药网络药理学、中药系统生物学研究
+
+### 研究生招生
+
+依托浙江大学药学院招收药学、中药学、药理学、生物信息学等相关专业的研究生，欢迎报考。
