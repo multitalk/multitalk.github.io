@@ -16,7 +16,7 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 ### 学习工作经历
 <div>
 <span style="display: inline-block; width: 115px;">
-  2023—迄今
+  &nbsp2023—迄今
 </span>
 <span style="display: inline-block; width: 350px">
   浙江大学长三角智慧绿洲创新中心   
@@ -28,7 +28,7 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 
 <div>
 <span style="display: inline-block; width: 115px;">
-  2022—2023
+  &nbsp2022—2023
 </span>
 <span style="display: inline-block; width: 350px">
   浙江大学医学院附属杭州市第一人民医学院
@@ -40,7 +40,7 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 
 <div>
 <span style="display: inline-block; width: 115px;">
-  2021—2023
+  &nbsp2021—2023
 </span>
 <span style="display: inline-block; width: 350px">
   浙江大学医学院附属杭州市第一人民医学院
@@ -52,7 +52,7 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 
 <div>
 <span style="display: inline-block; width: 115px;">
-  2015—2021
+  &nbsp2015—2021
 </span>
 <span style="display: inline-block; width: 350px">
   浙江大学药学院
@@ -64,7 +64,7 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 
 <div>
 <span style="display: inline-block; width: 115px;">
-  2011—2015
+  &nbsp2011—2015
 </span>
 <span style="display: inline-block; width: 400px">
   浙江大学药学院
@@ -76,9 +76,9 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 
 ### 主要研究方向
 
-<div>· 基于单细胞时空组学的细胞间通讯网络推断方法研究</div>
-<div>· 酒精性、脂肪性、缺血再灌注肝损伤与修复机制研究</div>
-<div>· 中药网络药理学、中药系统生物学研究</div>
+<div>（1）基于单细胞时空组学的细胞间通讯网络推断方法研究</div>
+<div>（2）酒精性、脂肪性、缺血再灌注肝损伤与修复机制研究</div>
+<div>（3）中药网络药理学、中药系统生物学研究</div>
 
 
 ### 研究生招生
