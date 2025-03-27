@@ -16,60 +16,60 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 ### 学习工作经历
 <div>
 <span style="display: inline-block; width: 115px;">
-  &nbsp;2023—迄今
+  2023—迄今
 </span>
 <span style="display: inline-block; width: 350px">
   浙江大学长三角智慧绿洲创新中心   
 </span>
-<span style="display: inline-block; width: 300px">
+<span style="display: inline-block; width: 250px">
   “百人计划”研究员
 </span>
 </div>
 
 <div>
 <span style="display: inline-block; width: 115px;">
-  &nbsp;2022—2023
+  2022—2023
 </span>
 <span style="display: inline-block; width: 350px">
   浙江大学医学院附属杭州市第一人民医学院
 </span>
-<span style="display: inline-block; width: 300px">
+<span style="display: inline-block; width: 250px">
   助理研究员
 </span>
 </div>
 
 <div>
 <span style="display: inline-block; width: 115px;">
-  &nbsp;2021—2023
+  2021—2023
 </span>
 <span style="display: inline-block; width: 350px">
   浙江大学医学院附属杭州市第一人民医学院
 </span>
-<span style="display: inline-block; width: 300px">
+<span style="display: inline-block; width: 250px">
   博士后（导师：<a href="https://person.zju.edu.cn/0097425">徐骁教授</a>）
 </span>
 </div>
 
 <div>
 <span style="display: inline-block; width: 115px;">
-  &nbsp;2015—2021
+  2015—2021
 </span>
 <span style="display: inline-block; width: 350px">
   浙江大学药学院
 </span>
-<span style="display: inline-block; width: 300px">
+<span style="display: inline-block; width: 250px">
   医学博士（导师：<a href="https://person.zju.edu.cn/fanxh">范骁辉教授</a>）
 </span>
 </div>
 
 <div>
 <span style="display: inline-block; width: 115px;">
-  &nbsp;2011—2015
+  2011—2015
 </span>
 <span style="display: inline-block; width: 400px">
   浙江大学药学院
 </span>
-<span style="display: inline-block; width: 300px">
+<span style="display: inline-block; width: 250px">
   理学学士
 </span>
 </div>
