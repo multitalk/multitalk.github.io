@@ -15,47 +15,70 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 
 ### 学习工作经历
 <div>
-<span style="display: inline-block; width: 100px;">
-  2023—迄今，&nbsp
+<span style="display: inline-block; width: 120px;">
+  2023—迄今
 </span>
-</div>
-
-<div>
 <span style="display: inline-block; width: 400px">
-  浙江大学长三角智慧绿洲创新中心，     
+  浙江大学长三角智慧绿洲创新中心   
 </span>
-</div>
-<div>
 <span style="display: block; width: 200px">
   “百人计划”研究员
 </span>
 </div>
 
-
-
-
 <div>
-<span style="display: inline-block; width: 10px;">
-  2022—2023，
+<span style="display: inline-block; width: 120px;">
+  2022—2023
 </span>
-<span style="display: inline-block; width: 10px">
-  浙江大学医学院附属杭州市第一人民医院，
+<span style="display: inline-block; width: 400px">
+  浙江大学医学院附属杭州市第一人民医  
 </span>
-<span style="display: inline-block; width: 10px">
+<span style="display: block; width: 200px">
   助理研究员
 </span>
 </div>
-2022—2023，浙江大学医学院附属杭州市第一人民医院，助理研究员
-2021—2023，浙江大学医学院附属杭州市第一人民医院，博士后（导师：[徐骁教授](https://person.zju.edu.cn/0097425)）
-2015—2021，浙江大学药学院，医学博士（导师：[范骁辉教授](https://person.zju.edu.cn/fanxh)）
-2011—2015，浙江大学药学院，理学学士
 
+<div>
+<span style="display: inline-block; width: 120px;">
+  2021—2023
+</span>
+<span style="display: inline-block; width: 400px">
+  浙江大学医学院附属杭州市第一人民医学院
+</span>
+<span style="display: block; width: 200px">
+  博士后（导师：<a, href="https://person.zju.edu.cn/0097425">徐骁教授</a>）
+</span>
+</div>
+
+<div>
+<span style="display: inline-block; width: 120px;">
+  2015—2021
+</span>
+<span style="display: inline-block; width: 400px">
+  浙江大学药学院
+</span>
+<span style="display: block; width: 200px">
+  医学博士（导师：<a, href="https://person.zju.edu.cn/fanxh">范骁辉教授</a>）
+</span>
+</div>
+
+<div>
+<span style="display: inline-block; width: 120px;">
+  2011—2015
+</span>
+<span style="display: inline-block; width: 400px">
+  浙江大学药学院
+</span>
+<span style="display: block; width: 200px">
+  理学学士
+</span>
+</div>
 
 ### 主要研究方向
 
-* 基于单细胞时空组学的细胞间通讯网络推断方法研究
-* 酒精性、脂肪性、缺血再灌注肝损伤与修复机制研究
-* 中药网络药理学、中药系统生物学研究
+<div>· 基于单细胞时空组学的细胞间通讯网络推断方法研究</div>
+<div>· 酒精性、脂肪性、缺血再灌注肝损伤与修复机制研究</div>
+<div>· 中药网络药理学、中药系统生物学研究</div>
 
 
 ### 研究生招生
