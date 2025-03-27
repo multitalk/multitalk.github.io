@@ -17,10 +17,10 @@ __基本情况__
 
 __工作经历__
 <div>
-<span style="display: inline-block; width: 100px;">
+<span style="display: inline-block; width: 110px;">
   2023—迄今
 </span>
-<span style="display: inline-block; width: 350px">
+<span style="display: inline-block; width: 360px">
   浙江大学长三角智慧绿洲创新中心   
 </span>
 <span style="display: inline-block; width: 250px">
@@ -29,10 +29,10 @@ __工作经历__
 </div>
 
 <div>
-<span style="display: inline-block; width: 100px;">
+<span style="display: inline-block; width: 110px;">
   2022—2023
 </span>
-<span style="display: inline-block; width: 350px">
+<span style="display: inline-block; width: 360px">
   浙江大学医学院附属杭州市第一人民医学院
 </span>
 <span style="display: inline-block; width: 250px">
@@ -41,10 +41,10 @@ __工作经历__
 </div>
 
 <div>
-<span style="display: inline-block; width: 100px;">
+<span style="display: inline-block; width: 110px;">
   2021—2023
 </span>
-<span style="display: inline-block; width: 350px">
+<span style="display: inline-block; width: 360px">
   浙江大学医学院附属杭州市第一人民医学院
 </span>
 <span style="display: inline-block; width: 250px">
@@ -54,10 +54,10 @@ __工作经历__
 
 __学习经历__
 <div>
-<span style="display: inline-block; width: 100px;">
+<span style="display: inline-block; width: 110px;">
   2015—2021
 </span>
-<span style="display: inline-block; width: 350px">
+<span style="display: inline-block; width: 360px">
   浙江大学药学院
 </span>
 <span style="display: inline-block; width: 250px">
@@ -66,10 +66,10 @@ __学习经历__
 </div>
 
 <div>
-<span style="display: inline-block; width: 100px;">
+<span style="display: inline-block; width: 110px;">
   2011—2015
 </span>
-<span style="display: inline-block; width: 350px">
+<span style="display: inline-block; width: 360px">
   浙江大学药学院
 </span>
 <span style="display: inline-block; width: 250px">
