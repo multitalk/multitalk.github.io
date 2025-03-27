@@ -5,10 +5,6 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 ---
 
 <div style="text-align: center;">
-![shaoxin](https://github.com/user-attachments/assets/1daff0d0-ac71-4ec1-b012-9f313b756c02){: style="width: 200px; display: block; margin: 0 auto;" }
-</div>
-
-<div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/1daff0d0-ac71-4ec1-b012-9f313b756c02" alt="邵鑫" style="width: 50%;" />
 </div>
 
@@ -18,12 +14,32 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 </p>
 
 ### 学习工作经历
-
-* 2023—迄今，浙江大学长三角智慧绿洲创新中心，“百人计划”研究员
-* 2022—2023，浙江大学医学院附属杭州市第一人民医院，助理研究员
-* 2021—2023，浙江大学医学院附属杭州市第一人民医院，博士后（导师：[徐骁教授](https://person.zju.edu.cn/0097425)）
-* 2015—2021，浙江大学药学院，医学博士（导师：[范骁辉教授](https://person.zju.edu.cn/fanxh)）
-* 2011—2015，浙江大学药学院，理学学士
+<div>
+<span style="display: inline-block; width: 1px;">
+  2023—迄今，&nbsp
+</span>
+<span style="display: inline-block; width: 1px">
+  浙江大学长三角智慧绿洲创新中心，     
+</span>
+<span style="display: block; width: 1px">
+  “百人计划”研究员
+</span>
+</div>
+<div>
+<span style="display: inline-block; width: 10px;">
+  2022—2023，
+</span>
+<span style="display: inline-block; width: 10px">
+  浙江大学医学院附属杭州市第一人民医院，
+</span>
+<span style="display: inline-block; width: 10px">
+  助理研究员
+</span>
+</div>
+2022—2023，浙江大学医学院附属杭州市第一人民医院，助理研究员
+2021—2023，浙江大学医学院附属杭州市第一人民医院，博士后（导师：[徐骁教授](https://person.zju.edu.cn/0097425)）
+2015—2021，浙江大学药学院，医学博士（导师：[范骁辉教授](https://person.zju.edu.cn/fanxh)）
+2011—2015，浙江大学药学院，理学学士
 
 
 ### 主要研究方向
