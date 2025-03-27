@@ -51,7 +51,7 @@ round-avatar: true
 social-network-links:
   github: multitalk
   ORCID: 0000-0002-1928-3878
-  google-scholar: https://scholar.google.com.hk/citations?hl=zh-CN&user=TZI1hJUAAAAJ
+  google-scholar: "https://scholar.google.com.hk/citations?hl=zh-CN&user=TZI1hJUAAAAJ"
   email: "xin_shao@zju.edu.cn"
   telephone: +8615267040470
 #  medium: yourname
