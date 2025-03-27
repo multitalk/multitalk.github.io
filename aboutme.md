@@ -4,7 +4,7 @@ title: About me
 subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿洲创新中心
 ---
 
-![shaoxin](https://github.com/user-attachments/assets/d9fe3a0f-77ff-4f39-8bc3-c82a2df3e402)
+![shaoxin](https://github.com/multitalk/multitalk.github.io/blob/master/assets/img/thumb.png)
 
 ### 基本情况
 <p style="text-align: justify;">
