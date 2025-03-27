@@ -15,16 +15,25 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 
 ### 学习工作经历
 <div>
-<span style="display: inline-block; width: 1px;">
+<span style="display: inline-block; width: 30px;">
   2023—迄今，&nbsp
 </span>
-<span style="display: inline-block; width: 1px">
+</div>
+
+<div>
+<span style="display: inline-block; width: 50px">
   浙江大学长三角智慧绿洲创新中心，     
 </span>
-<span style="display: block; width: 1px">
+</div>
+<div>
+<span style="display: block; width: 40px">
   “百人计划”研究员
 </span>
 </div>
+
+
+
+
 <div>
 <span style="display: inline-block; width: 10px;">
   2022—2023，
