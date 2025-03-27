@@ -10,21 +10,20 @@
 ############################
 
 # Name of website
-title: My amazing website
+title: MultiTalk课题组
 
 # Your name to show in the footer
-author: Some Person
+author: 邵鑫
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  个人简介: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
