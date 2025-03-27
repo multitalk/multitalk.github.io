@@ -22,5 +22,5 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 
 ### 研究生招生
 <p style="text-align: justify;">
-依托[浙江大学药学院](http://www.cps.zju.edu.cn/)招收药学、中药学、药理学、药物信息学、生物信息学、医学信心学等相关专业的研究生，欢迎[报考](http://www.grs.zju.edu.cn/yjszs/)。
+依托<a href="http://www.cps.zju.edu.cn/">浙江大学药学院</a>招收药学、中药学、药理学、药物信息学、生物信息学、医学信心学等相关专业的研究生，<a href="http://www.cps.zju.edu.cn/">欢迎报考</a>。
 </p>
