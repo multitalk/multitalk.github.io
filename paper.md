@@ -10,7 +10,7 @@ title: Published papers
 </div>
 
 <div style="text-align: justify;margin-left: 30px;margin-top: 20px">
-&bull; Dai Y#,  <strong>Shao X#&#42;</strong>, Zhang J#, Chen Y, Chen Q, Liao J, Chi F, Zhang J&#42;, Fan X&#42;. TCMChat: A generative large language model for traditional Chinese medicine.<strong>Pharmacol Res</strong>. 2024 Dec;210:107530. <a href="https://doi.org/10.1016/j.phrs.2024.107530">doi: 10.1016/j.phrs.2024.107530.</a>
+&bull; Dai Y#,  <strong>Shao X#&#42;</strong>, Zhang J#, Chen Y, Chen Q, Liao J, Chi F, Zhang J&#42;, Fan X&#42;. TCMChat: A generative large language model for traditional Chinese medicine. <strong>Pharmacol Res</strong>. 2024 Dec;210:107530. <a href="https://doi.org/10.1016/j.phrs.2024.107530">doi: 10.1016/j.phrs.2024.107530.</a>
 </div>
 
 <div style="text-align: justify;margin-left: 30px;margin-top: 20px">
