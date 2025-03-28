@@ -19,7 +19,8 @@ title: MultiTalk课题组
 navbar-links:
   个人简介: "aboutme"
   学生培养: "student"
-  科研成果: "aboutme"
+  科研论文: "aboutme"
+  成果荣誉: "aboutme"
   Resources:
     - Scopus-page: "https://www.scopus.com/authid/detail.uri?authorId=57149811000"
     - Github-page: "https://github.com/multitalk"
