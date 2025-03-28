@@ -13,9 +13,9 @@ subtitle: Undergraduates | Postgraduates
   </div>
 </div>
 
-<hr style="max-width:100%;height:2px;background:#eaeaea;border:none;">
+<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
 
-<div style="display: flex; align-items: flex-start; gap: 20px;margin-top: 20px">
+<div style="display: flex; align-items: flex-start; gap: 20px;margin-top: 50px">
   <img src="https://github.com/user-attachments/assets/2d6e8b52-a00d-49ee-aa21-f2c0aeb5ec74" alt="王小天" style="width: 30%; height: auto;margin-left: 150px;">
   <div>
     <a href="#"><p class="post-title" style="margin: 1.2rem;margin-left: 30px; font-size: 30px; font-family: system-ui;"><strong>王小天</strong></p></a>
@@ -24,9 +24,9 @@ subtitle: Undergraduates | Postgraduates
   </div>
 </div>
 
-<hr style="max-width:100%;height:2px;background:#eaeaea;border:none;">
+<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
 
-<div style="display: flex; align-items: flex-start; gap: 20px;margin-top: 20px">
+<div style="display: flex; align-items: flex-start; gap: 20px;margin-top: 50px">
   <img src="https://github.com/user-attachments/assets/627227d7-3048-4378-a5a2-5f6690f4a532" alt="刘柠溪" style="width: 30%; height: auto;margin-left: 150px;">
   <div>
     <a href=""><p class="post-read-more" style="margin: 1.2rem;margin-left: 30px; font-size: 30px; font-family: system-ui;"><strong>刘柠溪</strong></p></a>
@@ -35,9 +35,9 @@ subtitle: Undergraduates | Postgraduates
   </div>
 </div>
 
-<hr style="max-width:100%;height:2px;background:#eaeaea;border:none;">
+<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
 
-<div style="display: flex; align-items: flex-start; gap: 20px;margin-top: 20px">
+<div style="display: flex; align-items: flex-start; gap: 20px;margin-top: 50px">
   <img src="https://github.com/user-attachments/assets/704889d4-8779-4875-b7f2-3d4705fce24a" alt="朱芊芊" style="width: 30%; height: auto;margin-left: 150px;">
   <div>
     <a href="#"><p class="post-title" style="margin: 1.2rem;margin-left: 30px; font-size: 30px; font-family: system-ui;color:#6666cc;"><strong>朱芊芊</strong></p></a>
@@ -46,4 +46,4 @@ subtitle: Undergraduates | Postgraduates
   </div>
 </div>
 
-<hr style="max-width:100%;height:2px;background:#eaeaea;border:none;">
+<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
