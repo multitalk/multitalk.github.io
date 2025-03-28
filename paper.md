@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Published papers
+subtitle: Research articles | Reviews | Comments
 ---
-
-<hr style="max-width:100%;height:2px;background:#eaeaea;border:none;">
 
 <div style="text-align: justify;margin-top: 20px">
 &bull; Qian J#, <strong>Shao X#&#42;</strong>, Bao H#, Fang Y, Guo W, Li C, Li A, Hua H&#42;, Fan X&#42;. Identification and characterization of cell niches in tissue from spatial omics data at single-cell resolution. <strong>Nat Commun (Editor Highlights)</strong>. 2025 Feb 16;16(1):1693. <a href="doi: 10.1038/s41467-025-57029-9">doi: 10.1038/s41467-025-57029-9.</a>
@@ -24,6 +23,11 @@ title: Published papers
 <div style="text-align: justify;margin-top: 20px">
 &bull; <strong>Shao X#&#42;</strong>, Wang Z#, Wang K#, Lu X#, Zhang P, Guo R, Liao J, Yang P, Zheng S, Xu X#&#42;, Fan X#&#42;. A Single-Cell Landscape of Human Liver Transplantation Reveals a Pathogenic Immune Niche Associated with Early Allograft Dysfunction. <strong>Engineering</strong>. 2024 May;36:193-208. <a href="https://doi.org/10.1016/j.eng.2023.12.004">doi: 10.1016/j.eng.2023.12.004.</a>
 </div>
+
+<div style="text-align: justify;margin-top: 20px">
+&bull; <strong>Shao X#&#42;</strong>, Wang Z#, Wang K#, Lu X#, Zhang P, Guo R, Liao J, Yang P, Zheng S, Xu X#&#42;, Fan X#&#42;. A Single-Cell Landscape of Human Liver Transplantation Reveals a Pathogenic Immune Niche Associated with Early Allograft Dysfunction. <strong>Engineering</strong>. 2024 May;36:193-208. <a href="https://doi.org/10.1016/j.eng.2023.12.004">doi: 10.1016/j.eng.2023.12.004.</a>
+</div>
+
 
 
 
