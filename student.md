@@ -27,7 +27,7 @@ subtitle: Undergraduates | Postgraduates
 <hr style="max-width:100%;height:2px;background:#eaeaea;border:none;">
 
 <div id="liuningxi" style="display: flex; align-items: flex-start; gap: 20px;margin-top: 20px">
-  <img src="https://github.com/user-attachments/assets/2d6e8b52-a00d-49ee-aa21-f2c0aeb5ec74" alt="刘柠溪" style="width: 30%; height: auto;margin-left: 150px;">
+  <img src="https://github.com/user-attachments/assets/627227d7-3048-4378-a5a2-5f6690f4a532" alt="刘柠溪" style="width: 30%; height: auto;margin-left: 150px;">
   <div>
     <a href="#liuningxi"><p class="post-title" style="margin: 1.2rem;margin-left: 30px; font-size: 30px; font-family: system-ui;color:#6666cc;"><strong>刘柠溪</strong></p></a>
     <p style="margin: 1.2rem;margin-left: 30px; font-size: 20px; font-family: system-ui">硕士研究生（2025级）</p>
@@ -38,7 +38,7 @@ subtitle: Undergraduates | Postgraduates
 <hr style="max-width:100%;height:2px;background:#eaeaea;border:none;">
 
 <div id="zhuqianqian" style="display: flex; align-items: flex-start; gap: 20px;margin-top: 20px">
-  <img src="https://github.com/user-attachments/assets/2d6e8b52-a00d-49ee-aa21-f2c0aeb5ec74" alt="朱芊芊" style="width: 30%; height: auto;margin-left: 150px;">
+  <img src="https://github.com/user-attachments/assets/704889d4-8779-4875-b7f2-3d4705fce24a" alt="朱芊芊" style="width: 30%; height: auto;margin-left: 150px;">
   <div>
     <a href="#zhuqianqian"><p class="post-title" style="margin: 1.2rem;margin-left: 30px; font-size: 30px; font-family: system-ui;color:#6666cc;"><strong>朱芊芊</strong></p></a>
     <p style="margin: 1.2rem;margin-left: 30px; font-size: 20px; font-family: system-ui">硕士研究生（2025级）</p>
