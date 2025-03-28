@@ -22,7 +22,7 @@ title: Published papers
 </div>
 
 <div style="text-align: justify;margin-top: 20px">
-&bull; Li C#, <strong>Shao X#&#42;</strong>, Zhang S, Wang Y, Jin K, Yang P, Lu X, Fan X, Wang Y. scRank infers drug-responsive cell types from untreated scRNA-seq data using a target-perturbed gene regulatory network. <strong>Cell Rep Med</strong>. 2024 Jun 18;5(6):101568. <a href="https://doi.org/10.1016/j.xcrm.2024.101568">doi: 10.1016/j.xcrm.2024.101568.</a>
+&bull; <strong>Shao X#&#42;</strong>, Wang Z#, Wang K#, Lu X#, Zhang P, Guo R, Liao J, Yang P, Zheng S, Xu X#&#42;, Fan X#&#42;. A Single-Cell Landscape of Human Liver Transplantation Reveals a Pathogenic Immune Niche Associated with Early Allograft Dysfunction. <strong>Engineering</strong>. 2024 May;36:193-208. <a href="https://doi.org/10.1016/j.eng.2023.12.004">doi: 10.1016/j.eng.2023.12.004.</a>
 </div>
 
 
