@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Students
+subtitle: Undergraduates | Postgraduates
 ---
 
 <hr style="max-width:100%;height:2px;background:#eaeaea;border:none;">
