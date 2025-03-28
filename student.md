@@ -3,43 +3,11 @@ layout: page
 title: Students
 ---
 
-<div style="display: inline-block;">
-  <img src="https://github.com/user-attachments/assets/1daff0d0-ac71-4ec1-b012-9f313b756c02" alt="邵鑫" style="width: 30%;vertical-align: middle;" />
-  <span style="display: block;vertical-align: left;padding-left: 50px;font-size: 40px;">
-  邵鑫
-  </span>
-  <span style="display: block;vertical-align: left;padding-left: 50px;font-size: 40px;">
-  硕士研究生
-  </span>
-  <span style="display: block;vertical-align: left;padding-left: 50px;font-size: 40px;">
-  博士研究生
-  </span>
-</div>
-
-
-
-<div style="display: inline-block;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <img src="https://github.com/user-attachments/assets/1daff0d0-ac71-4ec1-b012-9f313b756c02" alt="邵鑫" style="width: 30; height: auto;margin-left: 100px;">
   <div>
-  <img src="https://github.com/user-attachments/assets/1daff0d0-ac71-4ec1-b012-9f313b756c02" alt="邵鑫" style="width: 30%;vertical-align: middle;display: inline-block;" />
-  </div>
-  <div>
-  <span style="vertical-align: left;font-size: 40px;">
-  邵鑫
-  </span>
-  </div>
-  <div>
-  <span style="vertical-align: left;font-size: 40px;">
-  硕士研究生
-  </span>
-  </div>
-  <div style="padding-left: 50px;">
-  <span style="vertical-align: left;font-size: 40px;">
-  博士研究生
-  </span>
+    <p>这是第一行文字</p>
+    <p>这是第二行文字</p>
+    <p>这是第三行文字...</p>
   </div>
 </div>
-
-
-
-
-
