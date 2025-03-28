@@ -20,7 +20,7 @@ navbar-links:
   个人简介: "aboutme"
   学生培养: "student"
   团队成员: "student"
-  科研论文: "aboutme"
+  科研论文: "paper"
   成果荣誉: "aboutme"
   Resources:
     - Scopus-page: "https://www.scopus.com/authid/detail.uri?authorId=57149811000"
