@@ -31,17 +31,17 @@ subtitle: Undergraduates | Postgraduates
 <hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
 
 <div id="fulinfan" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px; margin-bottom: 50px;">
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center; padding: 0 20px;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center; margin-left: 50px;">
     <a href="#fulinfan">
-      <img src="https://github.com/user-attachments/assets/4bac2938-4ab6-421c-8779-ae8b4c23d481" alt="付琳凡" style="width: 100%; max-width: 300px; height: auto; border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/4bac2938-4ab6-421c-8779-ae8b4c23d481" alt="付琳凡" style="width: 50%; height: auto;">
     </a>
   </div>
   <div style="flex: 1; padding: 0 20px;">
-    <p style="margin: 1.2rem 0; font-size: 30px; font-family: system-ui;">
-      <a href="#fulinfan" style="text-decoration: none; color: inherit;"><strong>付琳凡</strong></a>
+    <p style="margin: 1.2rem; margin-left: 30px; font-size: 30px; font-family: system-ui;">
+      <a href="#fulinfan"><strong>付琳凡</strong></a>
     </p>
-    <p style="margin: 1.2rem 0; font-size: 20px; font-family: system-ui;">硕士研究生（2024级）</p>
-    <p style="margin: 1.2rem 0; font-size: 20px; font-family: system-ui;">研究方向：单细胞组学、酒精性肝损伤与中药修复</p>
+    <p style="margin: 1.2rem; margin-left: 20px; font-family: system-ui;">硕士研究生（2024级）</p>
+    <p style="margin: 1.2rem; margin-left: 20px;font-family: system-ui;">研究方向：单细胞组学、酒精性肝损伤与中药修复</p>
   </div>
 </div>
 
