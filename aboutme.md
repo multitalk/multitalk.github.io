@@ -5,12 +5,12 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 ---
 
 <div style="text-align: center;">
-  <a href="https://multitalk.github.io/aboutme/">
+  <a href="#jibenqingkuang">
   <img src="https://github.com/user-attachments/assets/1daff0d0-ac71-4ec1-b012-9f313b756c02" alt="邵鑫" style="width: 35%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </div>
 
-<h3 style="font-family: system-ui; margin-top: 30px;">基本情况</h3>
+<h3 id="jibenqingkuang" style="font-family: system-ui; margin-top: 30px;">基本情况</h3>
 <div style="text-align: justify;font-family: system-ui; margin-top: 10px;">
   长期致力于细胞间通讯网络介导的肝损伤与中药修复机制研究，以第一或通讯作者在Nat Commun、Cell Rep Med、Nucleic Acids Res等发表SCI论文10余篇，被Nature、Cell等他引1000余次，主持国家自然科学基金面上项目、青年基金项目，申请发明专利和软著10余项，作为主要完成人获浙江省科学技术进步一等奖、教育部高等学校科研优秀成果二等奖，受邀担任Nucleic Acids Res、Sci China Life Sci、Commun Biol、Applied Soft Computing等多个SCI期刊审稿人以及世界中医药学会联合会网络药理学专业委员会理事和中国药理学会网络药理学会青委会委员。
 </div>
