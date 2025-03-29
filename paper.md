@@ -32,4 +32,26 @@ subtitle: Research articles | Reviews | Comments
 <a href="https://doi.org/10.1093/nar/gkab775">&bull; <strong>Shao X#</strong>, Yang H#, Zhuang X, Liao J, Yang P, Cheng J, Lu X, Chen H&#42;, Fan X&#42;. scDeepSort: a pre-trained cell-type annotation method for single-cell transcriptomics using deep learning with a weighted graph neural network. <strong>Nucleic Acids Res</strong>. 2021 Dec 2;49(21):e122. doi: 10.1093/nar/gkab775.</a>
 </div>
 
+<div style="text-align: justify;margin-top: 20px">
+<a href="https://doi.org/10.1093/bib/bbaa269">&bull; <strong>Shao X#</strong>, Liao J#, Li C#, Lu X, Cheng J, Fan X&#42;. CellTalkDB: a manually curated database of ligand-receptor interactions in humans and mice. <strong>Brief Bioinform (ESI highly cited paper)</strong>. 2021 Jul 20;22(4):bbaa269. doi: 10.1093/bib/bbaa269.</a>
+</div>
 
+<div style="text-align: justify;margin-top: 20px">
+<a href="https://doi.org/10.1007/s13238-020-00727-5">&bull; <strong>Shao X#</strong>, Lu X#, Liao J, Chen H, Fan X&#42;. New avenues for systematically inferring cell-cell communication: through single-cell transcriptomics data. <strong>Protein Cell</strong>. 2020 Dec;11(12):866-880. doi: 10.1007/s13238-020-00727-5.</a>
+</div>
+
+<div style="text-align: justify;margin-top: 20px">
+<a href="https://doi.org/10.1016/j.isci.2020.100882">&bull; <strong>Shao X</strong>, Liao J, Lu X, Xue R, Ai N, Fan X&#42;. scCATCH: Automatic Annotation on Cell Types of Clusters from Single-Cell RNA Sequencing Data. <strong>iScience</strong>. 2020 Mar 27;23(3):100882. doi: 10.1016/j.isci.2020.100882.</a>
+</div>
+
+<div style="text-align: justify;margin-top: 20px">
+<a href="https://doi.org/10.1186/s12881-019-0909-5">&bull; <strong>Shao X</strong>, Lv N, Liao J, Long J, Xue R, Ai N, Xu D&#42;, Fan X&#42;. Copy number variation is highly correlated with differential gene expression: a pan-cancer study. <strong>BMC Med Genet</strong>. 2019 Nov 9;20(1):175. doi: 10.1186/s12881-019-0909-5.</a>
+</div>
+
+<div style="text-align: justify;margin-top: 20px">
+<a href="https://doi.org/10.1016/j.isci.2020.101748">&bull; <strong>Shao X</strong>, Wang Y#, Lu X#, Hu Y, Liao J, Li J, Chen X, Yu Y, Ai N, Ying M, Fan X&#42;. A Clinical Genomics-Guided Prioritizing Strategy Enables Selecting Proper Cancer Cell Lines for Biomedical Research. <strong>iScience</strong>. 2020 Oct 28;23(11):101748. doi: 10.1016/j.isci.2020.101748.</a>
+</div>
+
+<div style="text-align: justify;margin-top: 20px">
+<a href="10.1016/j.saa.2016.02.015">&bull; <strong>Shao X</strong>, Ai N, Xu D, Fan X&#42;. Exploring the interaction between Salvia miltiorrhiza and human serum albumin: Insights from herb-drug interaction reports, computational analysis and experimental studies. <strong>Spectrochim Acta A Mol Biomol Spectrosc</strong>. 2016 May 15;161:1-7. doi: 10.1016/j.saa.2016.02.015.</a>
+</div>
