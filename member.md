@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Members
+title: Team members
 subtitle: Undergraduates | Postgraduates | Postdoctors | Engineers
 ---
 
