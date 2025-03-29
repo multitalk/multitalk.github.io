@@ -7,7 +7,7 @@ subtitle: Undergraduates | Postgraduates | Postdoctors | Engineers
 <div id="daiyizheng" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
     <a href="#daiyizheng">
-      <img src="https://github.com/user-attachments/assets/4bac2938-4ab6-421c-8779-ae8b4c23d481" alt="戴亿郑" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://github.com/user-attachments/assets/6c2ca41e-1a62-4a7e-8063-4653e4a497be" alt="戴亿郑" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     </a>
   </div>
   <div style="flex: 1.2; align-items: center">
