@@ -82,17 +82,6 @@ a:hover {
 a:focus {
   color: var(--hover-col);
 }
-.img-hover-zoom1 {
-  overflow: hidden; /* 隐藏超出部分 */
-}
-
-.img-hover-zoom1 img {
-  transition: transform .5s ease; /* 添加过渡效果 */
-}
-
-.img-hover-zoom1:hover img {
-  transform: scale(1.1); /* 悬停时放大1.1倍 */
-}
 blockquote {
   color: var(--mid-col);
   font-style: italic;
