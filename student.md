@@ -29,7 +29,7 @@ subtitle: Undergraduates | Postgraduates
   </div>
   <div style="flex: 1.2; align-items: center">
     <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
-      <a href="#fulinfan"><strong>王小天</strong></a>
+      <a href="#wangxiaotian"><strong>王小天</strong></a>
     </p>
     <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">硕士研究生（2025级）</p>
     <p style="font-size: 20px; font-family: system-ui;">研究方向：中药药理学、脂肪性肝损伤</p>
@@ -46,7 +46,7 @@ subtitle: Undergraduates | Postgraduates
   </div>
   <div style="flex: 1.2; align-items: center">
     <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
-      <a href="#fulinfan"><strong>刘柠溪</strong></a>
+      <a href="#liuningxi"><strong>刘柠溪</strong></a>
     </p>
     <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">硕士研究生（2025级）</p>
     <p style="font-size: 20px; font-family: system-ui;">研究方向：中药网络药理学、生物信息学</p>
@@ -63,7 +63,7 @@ subtitle: Undergraduates | Postgraduates
   </div>
   <div style="flex: 1.2; align-items: center">
     <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
-      <a href="#fulinfan"><strong>朱芊芊</strong></a>
+      <a href="#zhuqianqian"><strong>朱芊芊</strong></a>
     </p>
     <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">硕士研究生（2025级）</p>
     <p style="font-size: 20px; font-family: system-ui;">研究方向：单细胞组学、缺血再灌注肝损伤与中药修复</p>

@@ -5,7 +5,7 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 ---
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/1daff0d0-ac71-4ec1-b012-9f313b756c02" alt="邵鑫" style="width: 30%;" />
+  <img src="https://github.com/user-attachments/assets/1daff0d0-ac71-4ec1-b012-9f313b756c02" alt="邵鑫" style="width: 35%;" />
 </div>
 
 ### 基本情况
@@ -46,7 +46,7 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
   浙江大学医学院附属杭州市第一人民医学院
 </span>
 <span style="display: inline-block; width: 250px">
-  博士后（导师：<a href="https://person.zju.edu.cn/0097425">徐骁</a>）
+  博士后（导师：<a href="https://person.zju.edu.cn/0097425"><strong>徐骁</strong></a>）
 </span>
 </div>
 
@@ -59,7 +59,7 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
   浙江大学药学院
 </span>
 <span style="display: inline-block; width: 250px">
-  医学博士（导师：<a href="https://person.zju.edu.cn/fanxh">范骁辉</a>）
+  医学博士（导师：<a href="https://person.zju.edu.cn/fanxh"><strong>范骁辉</strong></a>）
 </span>
 </div>
 
@@ -82,5 +82,5 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 
 ### 学生招收
 <div style="text-align: justify;">
-依托<a href="http://www.cps.zju.edu.cn/">浙江大学药学院</a>招收药学、中药学、药理学、药物信息学、生物信息学等相关专业的研究生，<a href="http://www.cps.zju.edu.cn/">欢迎报考</a>。
+依托<a href="http://www.cps.zju.edu.cn/"><strong>浙江大学药学院</strong></a>招收药学、中药学、药理学、药物信息学、生物信息学等相关专业的研究生，<a href="http://www.cps.zju.edu.cn/"><strong>欢迎报考</strong></a>。
 </div>
