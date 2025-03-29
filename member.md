@@ -4,6 +4,125 @@ title: Members
 subtitle: Undergraduates | Postgraduates | Postdoctors | Engineers
 ---
 
+<div id="daiyizheng" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
+    <a href="#daiyizheng">
+      <img src="https://github.com/user-attachments/assets/4bac2938-4ab6-421c-8779-ae8b4c23d481" alt="戴亿郑" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+  </div>
+  <div style="flex: 1.2; align-items: center">
+    <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
+      <a href="#daiyizheng"><strong>戴亿郑</strong></a>
+    </p>
+    <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">工程师</p>
+    <p style="font-size: 20px; font-family: system-ui;">研究方向：中药大语言模型、人工智能</p>
+  </div>
+</div>
+
+<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
+
+<div id="zhangjinlu" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
+    <a href="#zhangjinlu">
+      <img src="https://github.com/user-attachments/assets/4bac2938-4ab6-421c-8779-ae8b4c23d481" alt="张金露" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+  </div>
+  <div style="flex: 1.2; align-items: center">
+    <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
+      <a href="#zhangjinlu"><strong>张金露</strong></a>
+    </p>
+    <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">博士研究生（2022级）</p>
+    <p style="font-size: 20px; font-family: system-ui;">研究方向：人工智能、计算化学</p>
+  </div>
+</div>
+
+<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
+
+<div id="meyue" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
+    <a href="#meyue">
+      <img src="https://github.com/user-attachments/assets/4bac2938-4ab6-421c-8779-ae8b4c23d481" alt="么玥" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+  </div>
+  <div style="flex: 1.2; align-items: center">
+    <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
+      <a href="#meyue"><strong>么&nbsp;&nbsp;&nbsp;玥</strong></a>
+    </p>
+    <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">博士研究生（2023级）</p>
+    <p style="font-size: 20px; font-family: system-ui;">研究方向：单细胞组学、生物信息学</p>
+  </div>
+</div>
+
+<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
+
+<div id="chenrenjie" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
+    <a href="#chenrenjie">
+      <img src="https://github.com/user-attachments/assets/4bac2938-4ab6-421c-8779-ae8b4c23d481" alt="陈仁杰" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+  </div>
+  <div style="flex: 1.2; align-items: center">
+    <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
+      <a href="#chenrenjie"><strong>陈仁杰</strong></a>
+    </p>
+    <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">博士研究生（2023级）</p>
+    <p style="font-size: 20px; font-family: system-ui;">研究方向：空间组学、生物信息学</p>
+  </div>
+</div>
+
+<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
+
+<div id="zhangxuting" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
+    <a href="#zhangxuting">
+      <img src="https://github.com/user-attachments/assets/4bac2938-4ab6-421c-8779-ae8b4c23d481" alt="张旭婷" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+  </div>
+  <div style="flex: 1.2; align-items: center">
+    <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
+      <a href="#zhangxuting"><strong>张旭婷</strong></a>
+    </p>
+    <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">博士研究生（2024级）</p>
+    <p style="font-size: 20px; font-family: system-ui;">研究方向：中药计算化学、分子动力学</p>
+  </div>
+</div>
+
+<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
+
+<div id="zhangying" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
+    <a href="#zhangying">
+      <img src="https://github.com/user-attachments/assets/4bac2938-4ab6-421c-8779-ae8b4c23d481" alt="张莹" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+  </div>
+  <div style="flex: 1.2; align-items: center">
+    <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
+      <a href="#zhangying"><strong>张&nbsp;&nbsp;&nbsp;莹</strong></a>
+    </p>
+    <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">硕士研究生（2024级）</p>
+    <p style="font-size: 20px; font-family: system-ui;">研究方向：空间组学、生物信息学</p>
+  </div>
+</div>
+
+<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
+
+<div id="xutinglin" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
+    <a href="#xutinglin">
+      <img src="https://github.com/user-attachments/assets/4bac2938-4ab6-421c-8779-ae8b4c23d481" alt="徐庭琳" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+  </div>
+  <div style="flex: 1.2; align-items: center">
+    <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
+      <a href="#xutinglin"><strong>徐庭琳</strong></a>
+    </p>
+    <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">硕士研究生（2024级）</p>
+    <p style="font-size: 20px; font-family: system-ui;">研究方向：单细胞组学、生物信息学</p>
+  </div>
+</div>
+
+<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
+
 <div id="fulinfan" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
     <a href="#fulinfan">
