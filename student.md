@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Students
+title: Mentor students
 subtitle: Undergraduates | Postgraduates
 ---
 
