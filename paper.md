@@ -17,19 +17,19 @@ subtitle: Research articles | Reviews | Comments
 </div>
 
 <div style="text-align: justify;margin-top: 20px">
-<a href="https://doi.org/10.1016/j.xcrm.2024.101568">&bull; Li C#, <strong>Shao X#&#42;</strong>, Zhang S, Wang Y, Jin K, Yang P, Lu X, Fan X, Wang Y. scRank infers drug-responsive cell types from untreated scRNA-seq data using a target-perturbed gene regulatory network. <strong>Cell Rep Med</strong>. 2024 Jun 18;5(6):101568. doi: 10.1016/j.xcrm.2024.101568.</a>
+<a href="https://doi.org/10.1016/j.xcrm.2024.101568">&bull; Li C#, <strong>Shao X#&#42;</strong>, Zhang S, Wang Y, Jin K, Yang P, Lu X, Fan X&#42;, Wang Y&#42;. scRank infers drug-responsive cell types from untreated scRNA-seq data using a target-perturbed gene regulatory network. <strong>Cell Rep Med</strong>. 2024 Jun 18;5(6):101568. doi: 10.1016/j.xcrm.2024.101568.</a>
 </div>
 
 <div style="text-align: justify;margin-top: 20px">
-<a href="https://doi.org/10.1016/j.eng.2023.12.004">&bull; <strong>Shao X#&#42;</strong>, Wang Z#, Wang K#, Lu X#, Zhang P, Guo R, Liao J, Yang P, Zheng S, Xu X#&#42;, Fan X#&#42;. A Single-Cell Landscape of Human Liver Transplantation Reveals a Pathogenic Immune Niche Associated with Early Allograft Dysfunction. <strong>Engineering</strong>. 2024 May;36:193-208. doi: 10.1016/j.eng.2023.12.004.</a>
+<a href="https://doi.org/10.1016/j.eng.2023.12.004">&bull; <strong>Shao X#&#42;</strong>, Wang Z#, Wang K#, Lu X#, Zhang P, Guo R, Liao J, Yang P, Zheng S, Xu X&#42;, Fan X&#42;. A Single-Cell Landscape of Human Liver Transplantation Reveals a Pathogenic Immune Niche Associated with Early Allograft Dysfunction. <strong>Engineering</strong>. 2024 May;36:193-208. doi: 10.1016/j.eng.2023.12.004.</a>
 </div>
 
 <div style="text-align: justify;margin-top: 20px">
-<a href="https://doi.org/10.1038/s41467-022-32111-8">&bull; <strong>Shao X#</strong>, Li C#, Yang H#, Lu X, Liao J, Qian J, Wang K, Cheng J, Yang P, Chen H#&#42;, Xu X#&#42;, Fan X#&#42;. Knowledge-graph-based cell-cell communication inference for spatially resolved transcriptomic data with SpaTalk. <strong>Nat Commun (Editor Highlights)</strong>. 2022 Jul 30;13(1):4429. doi: 10.1038/s41467-022-32111-8.</a>
+<a href="https://doi.org/10.1038/s41467-022-32111-8">&bull; <strong>Shao X#</strong>, Li C#, Yang H#, Lu X, Liao J, Qian J, Wang K, Cheng J, Yang P, Chen H&#42;, Xu X&#42;, Fan X&#42;. Knowledge-graph-based cell-cell communication inference for spatially resolved transcriptomic data with SpaTalk. <strong>Nat Commun (Editor Highlights)</strong>. 2022 Jul 30;13(1):4429. doi: 10.1038/s41467-022-32111-8.</a>
 </div>
 
 <div style="text-align: justify;margin-top: 20px">
-<a href="https://doi.org/10.1093/nar/gkab775">&bull; <strong>Shao X#</strong>, Yang H#, Zhuang X, Liao J, Yang P, Cheng J, Lu X, Chen H#&#42;, Fan X#&#42;. scDeepSort: a pre-trained cell-type annotation method for single-cell transcriptomics using deep learning with a weighted graph neural network. <strong>Nucleic Acids Res</strong>. 2021 Dec 2;49(21):e122. doi: 10.1093/nar/gkab775.</a>
+<a href="https://doi.org/10.1093/nar/gkab775">&bull; <strong>Shao X#</strong>, Yang H#, Zhuang X, Liao J, Yang P, Cheng J, Lu X, Chen H&#42;, Fan X&#42;. scDeepSort: a pre-trained cell-type annotation method for single-cell transcriptomics using deep learning with a weighted graph neural network. <strong>Nucleic Acids Res</strong>. 2021 Dec 2;49(21):e122. doi: 10.1093/nar/gkab775.</a>
 </div>
 
 
