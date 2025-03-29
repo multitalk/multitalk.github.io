@@ -82,6 +82,9 @@ a:hover {
 a:focus {
   color: var(--hover-col);
 }
+.img-hover-zoom:hover img {
+  transform: scale(1.1); /* 悬停时放大1.1倍 */
+}
 blockquote {
   color: var(--mid-col);
   font-style: italic;

@@ -5,7 +5,9 @@ subtitle: Undergraduates | Postgraduates
 ---
 
 <div id="fulinfan" style="display: flex; align-items: flex-start; gap: 20px;margin-top: 20px;margin-bottom: 50px">
+  <a href="#fulinfan">
   <img src="https://github.com/user-attachments/assets/4bac2938-4ab6-421c-8779-ae8b4c23d481" alt="付琳凡" style="width: 30%; height: auto;margin-left: 150px;">
+  </a>
   <div>
     <p style="margin: 1.2rem;margin-left: 30px; font-size: 30px; font-family: system-ui;"><a href="#fulinfan"><strong>付琳凡</strong></a></p>
     <p style="margin: 1.2rem;margin-left: 30px; font-size: 20px; font-family: system-ui">硕士研究生（2024级）</p>
