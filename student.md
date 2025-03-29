@@ -29,7 +29,7 @@ subtitle: Undergraduates | Postgraduates
 <div style="display: flex; align-items: flex-start; gap: 20px;margin-top: 50px;margin-bottom: 50px">
   <img src="https://github.com/user-attachments/assets/627227d7-3048-4378-a5a2-5f6690f4a532" alt="刘柠溪" style="width: 30%; height: auto;margin-left: 150px;">
   <div>
-    <p style="margin: 1.2rem;margin-left: 30px; font-size: 30px; font-family: system-ui;"><strong><a href="" class="post-preview">刘柠溪</a></p></strong>
+    <p style="margin: 1.2rem;margin-left: 30px; font-size: 30px; font-family: system-ui;"><a href="#" class="post-preview"><strong>刘柠溪</strong></a></p>
     <p style="margin: 1.2rem;margin-left: 30px; font-size: 20px; font-family: system-ui">硕士研究生（2025级）</p>
     <p style="margin: 1.2rem;margin-left: 30px; font-size: 20px; font-family: system-ui">研究方向：中药网络药理学、生物信息学</p>
   </div>
@@ -40,7 +40,7 @@ subtitle: Undergraduates | Postgraduates
 <div style="display: flex; align-items: flex-start; gap: 20px;margin-top: 50px;margin-bottom: 50px">
   <img src="https://github.com/user-attachments/assets/704889d4-8779-4875-b7f2-3d4705fce24a" alt="朱芊芊" style="width: 30%; height: auto;margin-left: 150px;">
   <div>
-    <a href="#" class="post-preview post-title"><p style="margin: 1.2rem;margin-left: 30px; font-size: 30px; font-family: system-ui;color:#6666cc;">朱芊芊</p></a>
+    <p style="margin: 1.2rem;margin-left: 30px; font-size: 30px; font-family: system-ui;"><a href="#" class="post-preview"><strong>朱芊芊</strong></a></p>
     <p style="margin: 1.2rem;margin-left: 30px; font-size: 20px; font-family: system-ui">硕士研究生（2025级）</p>
     <p style="margin: 1.2rem;margin-left: 30px; font-size: 20px; font-family: system-ui">研究方向：单细胞组学、缺血再灌注肝损伤与中药修复</p>
   </div>
