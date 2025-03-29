@@ -5,7 +5,7 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 ---
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/1daff0d0-ac71-4ec1-b012-9f313b756c02" alt="邵鑫" style="width: 35%;" />
+  <img src="https://github.com/user-attachments/assets/1daff0d0-ac71-4ec1-b012-9f313b756c02" alt="邵鑫" style="width: 35%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
 </div>
 
 <h3 style="font-family: system-ui;">基本情况</h3>
@@ -79,6 +79,10 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 <div style="font-family: system-ui;">（1）基于单细胞时空组学的细胞间通讯网络推断方法研究</div>
 <div style="font-family: system-ui;">（2）酒精性、脂肪性、缺血再灌注肝损伤与修复机制研究</div>
 <div style="font-family: system-ui;">（3）中药网络药理学、中药系统生物学研究</div>
+
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/19f927db-9bbe-4cd9-acc9-cc54980bc0b5" alt="研究方向" style="width: 100%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+</div>
 
 <h3 style="font-family: system-ui;">学生招收</h3>
 <div style="text-align: justify;font-family: system-ui;">
