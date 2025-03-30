@@ -12,7 +12,7 @@ subtitle: Undergraduates | Postgraduates
   </div>
   <div style="flex: 1.2; align-items: center">
     <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
-      <a><strong>付琳凡</strong></a>
+      <a href=""><strong>付琳凡</strong></a>
     </p>
     <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">硕士研究生（2024级）</p>
     <p style="font-size: 20px; font-family: system-ui;">研究方向：单细胞组学、酒精性肝损伤与中药修复</p>
