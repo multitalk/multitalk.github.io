@@ -21,7 +21,7 @@ subtitle: Research articles | Reviews | Comments
 </div>
 
 <div style="text-align: justify;margin-top: 20px">
-<a href="https://doi.org/10.1016/j.eng.2023.12.004">&bull; <strong>Shao X#&#42;</strong>, Wang Z#, Wang K#, Lu X#, Zhang P, Guo R, Liao J, Yang P, Zheng S, Xu X&#42;, Fan X&#42;. A Single-Cell Landscape of Human Liver Transplantation Reveals a Pathogenic Immune Niche Associated with Early Allograft Dysfunction. <strong>Engineering</strong>. 2024 May;36:193-208. doi: 10.1016/j.eng.2023.12.004.</a>
+<a href="https://doi.org/10.1016/j.eng.2023.12.004">&bull; <strong>Shao X#</strong>, Wang Z#, Wang K#, Lu X#, Zhang P, Guo R, Liao J, Yang P, Zheng S, Xu X&#42;, Fan X&#42;. A Single-Cell Landscape of Human Liver Transplantation Reveals a Pathogenic Immune Niche Associated with Early Allograft Dysfunction. <strong>Engineering</strong>. 2024 May;36:193-208. doi: 10.1016/j.eng.2023.12.004.</a>
 </div>
 
 <div style="text-align: justify;margin-top: 20px">
