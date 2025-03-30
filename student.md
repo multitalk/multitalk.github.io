@@ -6,7 +6,7 @@ subtitle: Undergraduates | Postgraduates
 
 <div id="fulinfan" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
-    <a>
+    <a href="#">
       <img src="https://github.com/user-attachments/assets/4bac2938-4ab6-421c-8779-ae8b4c23d481" alt="付琳凡" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     </a>
   </div>
