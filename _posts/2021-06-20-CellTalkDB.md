@@ -2,7 +2,7 @@
 layout: post
 title: A manually curated ligand-receptor interaction database
 subtitle: Briefings in Bioinformatics, 2021
-thumbnail-img: /assets/img/celltalkdb_j.jpeg
+thumbnail-img: /assets/img/celltalkdb_j.png
 tags: [Paper]
 ---
 
