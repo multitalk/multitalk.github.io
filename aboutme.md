@@ -84,7 +84,7 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 
 <div style="text-align: center;">
   <a href="#yanjiufangxiang">
-  <img src="https://github.com/user-attachments/assets/19f927db-9bbe-4cd9-acc9-cc54980bc0b5" alt="研究方向" style="width: 80%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="" alt="研究方向" style="width: 80%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </div>
 
