@@ -7,7 +7,7 @@ subtitle: Undergraduates | Postgraduates
 <div id="fulinfan" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
     <a href="#">
-      <img src="https://github.com/user-attachments/assets/4bac2938-4ab6-421c-8779-ae8b4c23d481" alt="付琳凡" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://raw.githubusercontent.com/multitalk/multitalk.github.io/refs/heads/master/assets/img/fulinfan.png" alt="付琳凡" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     </a>
   </div>
   <div style="flex: 1.2; align-items: center">
@@ -24,7 +24,7 @@ subtitle: Undergraduates | Postgraduates
 <div id="wangxiaotian" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
     <a href="#">
-      <img src="https://github.com/user-attachments/assets/2d6e8b52-a00d-49ee-aa21-f2c0aeb5ec74" alt="王小天" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://raw.githubusercontent.com/multitalk/multitalk.github.io/refs/heads/master/assets/img/wangxiaotian.png" alt="王小天" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     </a>
   </div>
   <div style="flex: 1.2; align-items: center">
@@ -41,7 +41,7 @@ subtitle: Undergraduates | Postgraduates
 <div id="liuningxi" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
     <a href="#">
-      <img src="https://github.com/user-attachments/assets/627227d7-3048-4378-a5a2-5f6690f4a532" alt="刘柠溪" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://raw.githubusercontent.com/multitalk/multitalk.github.io/refs/heads/master/assets/img/liuningxi.png" alt="刘柠溪" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     </a>
   </div>
   <div style="flex: 1.2; align-items: center">
@@ -58,7 +58,7 @@ subtitle: Undergraduates | Postgraduates
 <div id="zhuqianqian" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
     <a href="#">
-      <img src="https://github.com/user-attachments/assets/704889d4-8779-4875-b7f2-3d4705fce24a" alt="朱芊芊" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://raw.githubusercontent.com/multitalk/multitalk.github.io/refs/heads/master/assets/img/zhuqianqian.png" alt="朱芊芊" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     </a>
   </div>
   <div style="flex: 1.2; align-items: center">
