@@ -3,6 +3,7 @@ layout: page
 title: Published papers
 subtitle: Research articles | Reviews | Comments
 ---
+
 <div style="text-align: justify;margin-top: 20px">
 <a href="https://doi.org/10.1186/s13059-025-03566-x">&bull; <strong>Shao X#&#42;</strong>, Yu L#, Li C, Qian J, Yang X, Yang H, Liao J, Fan, X, Xu X&#42;, Fan X&#42;. Extracellular vesicle-derived miRNA-mediated cell-cell communication inference for single-cell transcriptomic data with miRTalk. <strong>Genome Biol</strong>. 2025 April 15;26:X. doi: 10.1186/s13059-025-03566-x.</a>
 </div>
