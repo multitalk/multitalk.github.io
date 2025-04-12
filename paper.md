@@ -3,6 +3,9 @@ layout: page
 title: Published papers
 subtitle: Research articles | Reviews | Comments
 ---
+<div style="text-align: justify;margin-top: 20px">
+<a href="https://doi.org/10.1186/s13059-025-03566-x">&bull; <strong>Shao X#&#42;</strong>, Yu L#, Li C, Qian J, Yang X, Yang H, Liao J, Fan, X, Xu X&#42;, Fan X&#42;. Extracellular vesicle-derived miRNA-mediated cell-cell communication inference for single-cell transcriptomic data with miRTalk. <strong>Genome Biol</strong>. 2025 April 15;26:X. doi: 10.1186/s13059-025-03566-x.</a>
+</div>
 
 <div style="text-align: justify;margin-top: 20px">
 <a href="https://doi.org/10.1038/s41467-025-57029-9">&bull; Qian J#, <strong>Shao X#&#42;</strong>, Bao H#, Fang Y, Guo W, Li C, Li A, Hua H&#42;, Fan X&#42;. Identification and characterization of cell niches in tissue from spatial omics data at single-cell resolution. <strong>Nat Commun (Editor Highlights)</strong>. 2025 Feb 16;16(1):1693. doi: 10.1038/s41467-025-57029-9.</a>
