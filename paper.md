@@ -5,6 +5,14 @@ subtitle: Research articles | Reviews | Comments
 ---
 
 <div style="text-align: justify;margin-top: 20px">
+<a href="#">&bull; <strong>Shao X#&#42;</strong>, Chen Y, Zhang J, Zhang X, Dai Y, Peng X, Fan X&#42;. Advancing network pharmacology with artificial intelligence: the next paradigm in traditional Chinese medicine. <strong>Chin J Nat Med</strong>. 2025 In press.</a>
+</div>
+
+<div style="text-align: justify;margin-top: 20px">
+<a href="#">&bull; Wang K&#42;, Wang Z&#42;, <strong>Shao X&#42;</strong>, Meng L&#42;, Liu C, Qiu N, Ge W, Chen Y, Tang X, Wang X, Lian Z, Zhou R, Zheng S, Fan X&#42;, Xu X&#42;. Natural killer cell-derived granzyme B as a therapeutic target for alleviating graft injury during liver transplantation. <strong>Acta Pharm Sin B</strong>. 2025 In press.</a>
+</div>
+
+<div style="text-align: justify;margin-top: 20px">
 <a href="https://doi.org/10.1186/s13059-025-03566-x">&bull; <strong>Shao X#&#42;</strong>, Yu L#, Li C, Qian J, Yang X, Yang H, Liao J, Fan, X, Xu X&#42;, Fan X&#42;. Extracellular vesicle-derived miRNA-mediated cell-cell communication inference for single-cell transcriptomic data with miRTalk. <strong>Genome Biol</strong>. 2025 April 14;26:95. doi: 10.1186/s13059-025-03566-x.</a>
 </div>
 
