@@ -5,7 +5,7 @@ subtitle: Research articles | Reviews | Comments
 ---
 
 <div style="text-align: justify;margin-top: 20px">
-<a href="#">&bull; <strong>Shao X#&#42;</strong>, Chen Y, Zhang J, Zhang X, Dai Y, Peng X, Fan X&#42;. Advancing network pharmacology with artificial intelligence: the next paradigm in traditional Chinese medicine. <strong>Chin J Nat Med</strong>. 2025 In press.</a>
+<a href="#">&bull; <strong>Shao X#&#42;</strong>, Chen Y, Zhang J, Zhang X, Dai Y, Peng X&#42;, Fan X&#42;. Advancing network pharmacology with artificial intelligence: the next paradigm in traditional Chinese medicine. <strong>Chin J Nat Med</strong>. 2025 In press.</a>
 </div>
 
 <div style="text-align: justify;margin-top: 20px">
