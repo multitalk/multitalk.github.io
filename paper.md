@@ -5,11 +5,11 @@ subtitle: Research articles | Reviews | Comments
 ---
 
 <div style="text-align: justify;margin-top: 20px">
-<a href="#">&bull; <strong>Shao X#&#42;</strong>, Chen Y, Zhang J, Zhang X, Dai Y, Peng X&#42;, Fan X&#42;. Advancing network pharmacology with artificial intelligence: the next paradigm in traditional Chinese medicine. <strong>Chin J Nat Med</strong>. 2025 In press.</a>
+<a href="#">&bull; <strong>Shao X&#42;</strong>, Chen Y, Zhang J, Zhang X, Dai Y, Peng X&#42;, Fan X&#42;. Advancing network pharmacology with artificial intelligence: the next paradigm in traditional Chinese medicine. <strong>Chin J Nat Med</strong>. 2025 In press.</a>
 </div>
 
 <div style="text-align: justify;margin-top: 20px">
-<a href="#">&bull; Wang K&#42;, Wang Z&#42;, <strong>Shao X&#42;</strong>, Meng L&#42;, Liu C, Qiu N, Ge W, Chen Y, Tang X, Wang X, Lian Z, Zhou R, Zheng S, Fan X&#42;, Xu X&#42;. Natural killer cell-derived granzyme B as a therapeutic target for alleviating graft injury during liver transplantation. <strong>Acta Pharm Sin B</strong>. 2025 In press.</a>
+<a href="#">&bull; Wang K#, Wang Z#, <strong>Shao X#</strong>, Meng L#, Liu C, Qiu N, Ge W, Chen Y, Tang X, Wang X, Lian Z, Zhou R, Zheng S, Fan X&#42;, Xu X&#42;. Natural killer cell-derived granzyme B as a therapeutic target for alleviating graft injury during liver transplantation. <strong>Acta Pharm Sin B</strong>. 2025 In press.</a>
 </div>
 
 <div style="text-align: justify;margin-top: 20px">
