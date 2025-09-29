@@ -89,6 +89,6 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 
 <div style="text-align: center;">
   <a href="#yanjiufangxiang">
-  <img src="https://raw.githubusercontent.com/multitalk/multitalk.github.io/refs/heads/master/assets/img/team.png" alt="研究方向" style="width: 80%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://raw.githubusercontent.com/multitalk/multitalk.github.io/refs/heads/master/assets/img/team.png" alt="研究方向">
   </a>
 </div>
