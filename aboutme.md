@@ -80,15 +80,15 @@ subtitle: 邵鑫 | “百人计划”研究员 | 浙江大学长三角智慧绿�
 <h3 id="yanjiufangxiang" style="font-family: system-ui; margin-top: 30px;">研究方向</h3>
 <div style="font-family: system-ui; margin-top: 10px;">（1）基于单细胞时空组学的细胞间通讯网络推断方法研究</div>
 <div style="font-family: system-ui;">（2）酒精性、脂肪性、缺血再灌注肝损伤与修复机制研究</div>
-<div style="font-family: system-ui;">（3）中药网络药理学、中药系统生物学研究</div>
-
-<div style="text-align: center;">
-  <a href="#yanjiufangxiang">
-  <img src="https://raw.githubusercontent.com/multitalk/multitalk.github.io/refs/heads/master/assets/img/research.png" alt="研究方向" style="width: 80%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  </a>
-</div>
+<div style="font-family: system-ui;">（3）基于人工智能大模型的中药新药智能发现及组方优化</div>
 
 <h3 style="font-family: system-ui; margin-top: 30px;">学生招收</h3>
 <div style="text-align: justify;font-family: system-ui; margin-top: 10px;">
 依托<a href="http://www.cps.zju.edu.cn/"><strong>浙江大学药学院</strong></a>招收药学、中药学、药理学、药物信息学、生物信息学等相关专业的研究生，<a href="http://www.grs.zju.edu.cn/yjszs/"><strong>欢迎报考</strong></a>。
+</div>
+
+<div style="text-align: center;">
+  <a href="#yanjiufangxiang">
+  <img src="https://raw.githubusercontent.com/multitalk/multitalk.github.io/refs/heads/master/assets/img/team.png" alt="研究方向" style="width: 80%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
 </div>
