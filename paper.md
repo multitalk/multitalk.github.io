@@ -5,6 +5,10 @@ subtitle: Research articles | Reviews | Comments
 ---
 
 <div style="text-align: justify;margin-top: 20px">
+<a href="https://doi.org/10.1002/imt2.70084">&bull; Chen R, Yao Y, Qian J, Peng X&#42;, <strong>Shao X&#42;</strong>, Fan X&#42;. A Comprehensive Benchmarking for Spatially Resolved Transcriptomics Clustering Methods Across Variable Technologies, Organs, and Replicates. <strong>iMeta</strong>. 2025;e70084. doi: 10.1002/imt2.70084.</a>
+</div>
+
+<div style="text-align: justify;margin-top: 20px">
 <a href="https://dx.doi.org/10.1016/S1875-5364(25)60941-1">&bull; <strong>Shao X&#42;</strong>, Chen Y, Zhang J, Zhang X, Dai Y, Peng X&#42;, Fan X&#42;. Advancing network pharmacology with artificial intelligence: the next paradigm in traditional Chinese medicine. <strong>Chin J Nat Med (Cover)</strong>. 2025 doi: 10.1016/S1875-5364(25)60941-1.</a>
 </div>
 
@@ -21,11 +25,11 @@ subtitle: Research articles | Reviews | Comments
 </div>
 
 <div style="text-align: justify;margin-top: 20px">
-<a href="https://doi.org/10.1016/j.phrs.2024.107530">&bull; Dai Y#,  <strong>Shao X#&#42;</strong>, Zhang J#, Chen Y, Chen Q, Liao J, Chi F, Zhang J&#42;, Fan X&#42;. TCMChat: A generative large language model for traditional Chinese medicine. <strong>Pharmacol Res</strong>. 2024 Dec;210:107530. doi: 10.1016/j.phrs.2024.107530.</a>
+<a href="https://doi.org/10.1007/s11427-023-2561-0">&bull; Sun F#, Li H#, Sun D#, Fu S#, Gu L#, <strong>Shao X#</strong>, Wang Q#, Dong X#, Duan B#, Xing F#, Wu J#, Xiao M&#42;, Zhao F&#42;, Han JJ&#42;, Liu Q&#42;, Fan X&#42;, Li C&#42;, Wang C&#42;, Shi T&#42;. Single-cell omics: experimental workflow, data analyses and applications. <strong>Sci China Life Sci (Cover)</strong>. 2025 Jan;68(1):5-102. doi: 10.1007/s11427-023-2561-0.</a>
 </div>
 
 <div style="text-align: justify;margin-top: 20px">
-<a href="https://doi.org/10.1007/s11427-023-2561-0">&bull; Sun F#, Li H#, Sun D#, Fu S#, Gu L#, <strong>Shao X#</strong>, Wang Q#, Dong X#, Duan B#, Xing F#, Wu J#, Xiao M&#42;, Zhao F&#42;, Han JJ&#42;, Liu Q&#42;, Fan X&#42;, Li C&#42;, Wang C&#42;, Shi T&#42;. Single-cell omics: experimental workflow, data analyses and applications. <strong>Sci China Life Sci (Cover)</strong>. 2025 Jan;68(1):5-102. doi: 10.1007/s11427-023-2561-0.</a>
+<a href="https://doi.org/10.1016/j.phrs.2024.107530">&bull; Dai Y#,  <strong>Shao X#&#42;</strong>, Zhang J#, Chen Y, Chen Q, Liao J, Chi F, Zhang J&#42;, Fan X&#42;. TCMChat: A generative large language model for traditional Chinese medicine. <strong>Pharmacol Res</strong>. 2024 Dec;210:107530. doi: 10.1016/j.phrs.2024.107530.</a>
 </div>
 
 <div style="text-align: justify;margin-top: 20px">
