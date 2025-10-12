@@ -5,7 +5,7 @@ subtitle: Research articles | Reviews | Comments
 ---
 
 <div style="text-align: justify;margin-top: 20px">
-<a href="https://doi.org/10.1002/imt2.70084">&bull; Chen R, Yao Y, Qian J, Peng X&#42;, <strong>Shao X&#42;</strong>, Fan X&#42;. A Comprehensive Benchmarking for Spatially Resolved Transcriptomics Clustering Methods Across Variable Technologies, Organs, and Replicates. <strong>iMeta</strong>. 2025;e70084. doi: 10.1002/imt2.70084.</a>
+<a href="https://doi.org/10.1002/imt2.70084">&bull; Chen R, Yao Y, Qian J, Peng X&#42;, <strong>Shao X&#42;</strong>, Fan X&#42;. A comprehensive benchmarking for spatially resolved transcriptomics clustering methods across variable technologies, organs, and replicates. <strong>iMeta</strong>. 2025;e70084. doi: 10.1002/imt2.70084.</a>
 </div>
 
 <div style="text-align: justify;margin-top: 20px">

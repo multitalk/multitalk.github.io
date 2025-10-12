@@ -13,7 +13,7 @@ Spatial clustering is a critical step in the analysis of spatially resolved tran
 <h3><a href="https://doi.org/10.1002/imt2.70084">A comprehensive benchmarking for spatially resolved transcriptomics clustering methods across variable technologies, organs, and replicates</a></h3>
 <div style="text-align: center;padding-top: 20px;padding-bottom: 20px;">
   <a href="https://doi.org/10.1002/imt2.70084">
-  <img src="https://github.com/ZJUFanLab/SRTBenchmark/blob/main/figures/Graphical%20Abstract.png" alt="benchmark" style="width: 90%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://raw.githubusercontent.com/ZJUFanLab/SRTBenchmark/refs/heads/main/figures/Graphical%20Abstract.png" alt="benchmark" style="width: 90%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </div>
 
