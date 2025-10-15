@@ -19,6 +19,21 @@ subtitle: Undergraduates | Postgraduates | Postdoctors | Engineers
   </div>
 </div>
 
+<div id="shaofanghong" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
+    <a href="#">
+      <img src="https://raw.githubusercontent.com/multitalk/multitalk.github.io/refs/heads/master/assets/img/shaofanghong.png" alt="邵方红" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+  </div>
+  <div style="flex: 1.2; align-items: center">
+    <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
+      <a href="#"><strong>邵方红</strong></a>
+    </p>
+    <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">博士后</p>
+    <p style="font-size: 20px; font-family: system-ui;">研究方向：单细胞组学、中药人工智能</p>
+  </div>
+</div>
+
 <hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
 
 <div id="zhangjinlu" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
@@ -84,6 +99,21 @@ subtitle: Undergraduates | Postgraduates | Postdoctors | Engineers
     </p>
     <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">博士研究生（2024级）</p>
     <p style="font-size: 20px; font-family: system-ui;">研究方向：中药计算化学、分子动力学</p>
+  </div>
+</div>
+
+<div id="lijinhao" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
+    <a href="#">
+      <img src="https://raw.githubusercontent.com/multitalk/multitalk.github.io/refs/heads/master/assets/img/lijinhao.png" alt="李今豪" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+  </div>
+  <div style="flex: 1.2; align-items: center">
+    <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
+      <a href="#"><strong>李今豪</strong></a>
+    </p>
+    <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">博士研究生（2024级）</p>
+    <p style="font-size: 20px; font-family: system-ui;">研究方向：中药制剂、生产工艺</p>
   </div>
 </div>
 
