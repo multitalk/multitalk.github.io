@@ -19,6 +19,8 @@ subtitle: Undergraduates | Postgraduates | Postdoctors | Engineers
   </div>
 </div>
 
+<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
+
 <div id="shaofanghong" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
     <a href="#">
@@ -101,6 +103,8 @@ subtitle: Undergraduates | Postgraduates | Postdoctors | Engineers
     <p style="font-size: 20px; font-family: system-ui;">研究方向：中药计算化学、分子动力学</p>
   </div>
 </div>
+
+<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
 
 <div id="lijinhao" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
