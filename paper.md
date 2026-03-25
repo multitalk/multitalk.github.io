@@ -5,15 +5,27 @@ subtitle: Research articles | Reviews | Comments
 ---
 
 <div style="text-align: justify;margin-top: 20px">
-<a href="https://doi.org/10.1002/imt2.70084">&bull; Chen R, Yao Y, Qian J, Peng X&#42;, <strong>Shao X&#42;</strong>, Fan X&#42;. A comprehensive benchmarking for spatially resolved transcriptomics clustering methods across variable technologies, organs, and replicates. <strong>iMeta</strong>. 2025;e70084. doi: 10.1002/imt2.70084.</a>
+<a href="https://doi.org/10.48130/targetome-0026-0009">&bull; Qian J, Bao H, Yang H, Zhang J, <strong>Shao X&#42;</strong>, Fan X&#42;. AI-driven deciphering of cell niches with single-cell and spatial omics: a new perspective for traditional Chinese medicine research. <strong>Targetome (Cover)</strong>. 2026 Feb 26;2(2):e009. doi: 10.48130/targetome-0026-0009.</a>
 </div>
 
 <div style="text-align: justify;margin-top: 20px">
-<a href="https://dx.doi.org/10.1016/S1875-5364(25)60941-1">&bull; <strong>Shao X&#42;</strong>, Chen Y, Zhang J, Zhang X, Dai Y, Peng X&#42;, Fan X&#42;. Advancing network pharmacology with artificial intelligence: the next paradigm in traditional Chinese medicine. <strong>Chin J Nat Med (Cover)</strong>. 2025 doi: 10.1016/S1875-5364(25)60941-1.</a>
+<a href="https://doi.org/10.1093/bib/bbag039">&bull; Zhang J#, Zhang X#, Dai Y#, <strong>Shao X&#42;</strong>, Fan X&#42;. Transformer-based graphs for drug-drug interaction with chemical knowledge embedding. <strong>Brief Bioinform</strong>. 2026 Jan 7;27(1):bbag039. doi: 10.1093/bib/bbag039.</a>
 </div>
 
 <div style="text-align: justify;margin-top: 20px">
-<a href="https://doi.org/10.1016/j.apsb.2025.07.042">&bull; Wang K#, Wang Z#, <strong>Shao X#</strong>, Meng L#, Liu C, Qiu N, Ge W, Chen Y, Tang X, Wang X, Lian Z, Zhou R, Zheng S, Fan X&#42;, Xu X&#42;. Natural killer cell-derived granzyme B as a therapeutic target for alleviating graft injury during liver transplantation. <strong>Acta Pharm Sin B</strong>. 2025 doi: 10.1016/j.apsb.2025.07.042.</a>
+<a href="https://doi.org/10.1016/j.apsb.2025.11.020">&bull; Wang T#, Hu Y#, Guo W#, Li H, Wang M, Chen B, Bao H, Gao M, Li X, Chen Q, Shen M, <strong>Shao X&#42;</strong>, Liao J&#42;, Fan X&#42;. An integrated resource for ischemic heart disease defines hallmarks and heterogeneity across time and space. <strong>Acta Pharm Sin B</strong>. 2026 Jan;16(1):642-646. doi: 10.1016/j.apsb.2025.11.020.</a>
+</div>
+
+<div style="text-align: justify;margin-top: 20px">
+<a href="https://dx.doi.org/10.1016/S1875-5364(25)60941-1">&bull; <strong>Shao X&#42;</strong>, Chen Y, Zhang J, Zhang X, Dai Y, Peng X&#42;, Fan X&#42;. Advancing network pharmacology with artificial intelligence: the next paradigm in traditional Chinese medicine. <strong>Chin J Nat Med (Cover)</strong>. 2025 Nov;23(11):1358-1376. doi: 10.1016/S1875-5364(25)60941-1.</a>
+</div>
+
+<div style="text-align: justify;margin-top: 20px">
+<a href="https://doi.org/10.1002/imt2.70084">&bull; Chen R, Yao Y, Qian J, Peng X&#42;, <strong>Shao X&#42;</strong>, Fan X&#42;. A comprehensive benchmarking for spatially resolved transcriptomics clustering methods across variable technologies, organs, and replicates. <strong>iMeta</strong>. 2025 Oct 9;4(6):e70084. doi: 10.1002/imt2.70084.</a>
+</div>
+
+<div style="text-align: justify;margin-top: 20px">
+<a href="https://doi.org/10.1016/j.apsb.2025.07.042">&bull; Wang K#, Wang Z#, <strong>Shao X#</strong>, Meng L#, Liu C, Qiu N, Ge W, Chen Y, Tang X, Wang X, Lian Z, Zhou R, Zheng S, Fan X&#42;, Xu X&#42;. Natural killer cell-derived granzyme B as a therapeutic target for alleviating graft injury during liver transplantation. <strong>Acta Pharm Sin B</strong>. 2025 Oct;15(10):5277-5293. doi: 10.1016/j.apsb.2025.07.042.</a>
 </div>
 
 <div style="text-align: justify;margin-top: 20px">

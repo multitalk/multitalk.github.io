@@ -21,6 +21,23 @@ subtitle: Undergraduates | Postgraduates | Postdoctors | Engineers
 
 <hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
 
+<div id="tanshuoyan" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
+    <a href="#">
+      <img src="https://raw.githubusercontent.com/multitalk/multitalk.github.io/refs/heads/master/assets/img/tanshuoyan.png" alt="谈硕彦" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+  </div>
+  <div style="flex: 1.2; align-items: center">
+    <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
+      <a href="#"><strong>谈硕彦</strong></a>
+    </p>
+    <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">博士后</p>
+    <p style="font-size: 20px; font-family: system-ui;">研究方向：中药化学信息学、人工智能</p>
+  </div>
+</div>
+
+<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
+
 <div id="shaofanghong" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
     <a href="#">
@@ -133,25 +150,8 @@ subtitle: Undergraduates | Postgraduates | Postdoctors | Engineers
     <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
       <a href="#"><strong>张&nbsp;&nbsp;&nbsp;莹</strong></a>
     </p>
-    <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">硕士研究生（2024级）</p>
+    <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">博士研究生（2024级）</p>
     <p style="font-size: 20px; font-family: system-ui;">研究方向：空间组学、生物信息学</p>
-  </div>
-</div>
-
-<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
-
-<div id="xutinglin" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
-  <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
-    <a href="#">
-      <img src="https://raw.githubusercontent.com/multitalk/multitalk.github.io/refs/heads/master/assets/img/xutinglin.png" alt="徐庭琳" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    </a>
-  </div>
-  <div style="flex: 1.2; align-items: center">
-    <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
-      <a href="#"><strong>徐庭琳</strong></a>
-    </p>
-    <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">硕士研究生（2024级）</p>
-    <p style="font-size: 20px; font-family: system-ui;">研究方向：单细胞组学、生物信息学</p>
   </div>
 </div>
 
@@ -169,6 +169,23 @@ subtitle: Undergraduates | Postgraduates | Postdoctors | Engineers
     </p>
     <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">博士研究生（2024级）</p>
     <p style="font-size: 20px; font-family: system-ui;">研究方向：单细胞组学、酒精性肝损伤与中药修复</p>
+  </div>
+</div>
+
+<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
+
+<div id="xutinglin" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
+    <a href="#">
+      <img src="https://raw.githubusercontent.com/multitalk/multitalk.github.io/refs/heads/master/assets/img/xutinglin.png" alt="徐庭琳" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+  </div>
+  <div style="flex: 1.2; align-items: center">
+    <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
+      <a href="#"><strong>徐庭琳</strong></a>
+    </p>
+    <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">硕士研究生（2024级）</p>
+    <p style="font-size: 20px; font-family: system-ui;">研究方向：单细胞组学、生物信息学</p>
   </div>
 </div>
 
@@ -220,5 +237,22 @@ subtitle: Undergraduates | Postgraduates | Postdoctors | Engineers
     </p>
     <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">硕士研究生（2025级）</p>
     <p style="font-size: 20px; font-family: system-ui;">研究方向：单细胞组学、缺血再灌注肝损伤与中药修复</p>
+  </div>
+</div>
+
+<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
+
+<div id="wangbinming" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
+    <a href="#">
+      <img src="https://raw.githubusercontent.com/multitalk/multitalk.github.io/refs/heads/master/assets/img/wangbinming.png" alt="王彬明" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+  </div>
+  <div style="flex: 1.2; align-items: center">
+    <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
+      <a href="#"><strong>王彬明</strong></a>
+    </p>
+    <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">硕士研究生（2026级）</p>
+    <p style="font-size: 20px; font-family: system-ui;">研究方向：中医药人工智能</p>
   </div>
 </div>
