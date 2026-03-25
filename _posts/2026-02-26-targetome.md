@@ -13,7 +13,7 @@ The therapeutic effects of traditional Chinese medicine (TCM) are characterized 
 <h3><a href="https://doi.org/10.48130/targetome-0026-0009">AI-driven deciphering of cell niches with single-cell and spatial omics: a new perspective for traditional Chinese medicine research</a></h3>
 <div style="text-align: center;padding-top: 20px;padding-bottom: 20px;">
   <a href="https://doi.org/10.48130/targetome-0026-0009">
-  <img src="" alt="targetome" style="width: 90%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://raw.githubusercontent.com/multitalk/multitalk.github.io/refs/heads/master/assets/img/targetome.png" alt="targetome" style="width: 90%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </div>
 
