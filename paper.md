@@ -5,6 +5,10 @@ subtitle: Research articles | Reviews | Comments
 ---
 
 <div style="text-align: justify;margin-top: 20px">
+<a href="https://doi.org/10.1186/s13020-026-01360-w">&bull; Tan S#, <strong>Shao X#&#42;</strong>, Zhang X, Dai Y, Zhang B&#42;, Cheng Y&#42;, Fan X&#42;.  TCMNet: an AI-driven strategy for optimizing traditional Chinese medicine. <strong>Chin Med</strong>. 2026 March 31;21:106. doi: 10.1186/s13020-026-01360-w.</a>
+</div>
+
+<div style="text-align: justify;margin-top: 20px">
 <a href="https://doi.org/10.48130/targetome-0026-0009">&bull; Qian J, Bao H, Yang H, Zhang J, <strong>Shao X&#42;</strong>, Fan X&#42;. AI-driven deciphering of cell niches with single-cell and spatial omics: a new perspective for traditional Chinese medicine research. <strong>Targetome (Cover)</strong>. 2026 Feb 26;2(2):e009. doi: 10.48130/targetome-0026-0009.</a>
 </div>
 
