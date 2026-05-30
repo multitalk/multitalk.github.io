@@ -256,3 +256,20 @@ subtitle: Undergraduates | Postgraduates | Postdoctors | Engineers
     <p style="font-size: 20px; font-family: system-ui;">研究方向：中医药人工智能</p>
   </div>
 </div>
+
+<hr style="max-width:100%;height:1px;background:#eaeaea;border:none;">
+
+<div id="luzimo" style="display: flex; align-items: flex-start; gap: 20px; margin-top: 40px; margin-bottom: 50px;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: flex-end; margin-left: 140px;margin-top: 20px">
+    <a href="#">
+      <img src="https://raw.githubusercontent.com/multitalk/multitalk.github.io/refs/heads/master/assets/img/luzimo.png" alt="陆子默" style="width: 88%; height: auto;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+  </div>
+  <div style="flex: 1.2; align-items: center">
+    <p style="font-size: 30px; line-height: 2; font-family: system-ui;">
+      <a href="#"><strong>陆子默</strong></a>
+    </p>
+    <p style="font-size: 20px; line-height: 0.1; font-family: system-ui;">硕士研究生（2026级）</p>
+    <p style="font-size: 20px; font-family: system-ui;">研究方向：中医药人工智能</p>
+  </div>
+</div>
